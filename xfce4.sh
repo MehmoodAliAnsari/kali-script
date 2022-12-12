@@ -1,4 +1,4 @@
-#!/bin/sh
+
 echo "[i] Updating and upgrading Kali (this will take a while)"
 apt-get update
 apt-get dist-upgrade -y
